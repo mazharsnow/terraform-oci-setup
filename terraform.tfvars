@@ -1,0 +1,9 @@
+compartment_ocid       = "ocid1.compartment.oc15..aaaaaaaa35ot5aa3oaqwzws3ehbypudafr6al2pvz63uh5hgwpjy26amgbea"
+# subnet_ocid            = "ocid1.subnet.oc15.ap-dcc-gazipur-1.aaaaaaaabnzh5l2zvvrt6vjcosrh5rp7utelplqot5bhrwuzsr3jysltsnua"
+private_subnet_ocid    = "ocid1.subnet.oc15.ap-dcc-gazipur-1.aaaaaaaatiuaoes2xdurdps35japhqv7c3pllfhygdvsdurvn4665cmzzxma"
+image_ocid             = "ocid1.image.oc15.ap-dcc-gazipur-1.aaaaaaaabx6w7rmzrdhzh7lgczqtk7nlgp2nnmycvw45dd65ngm3vct5ahqa"
+instance_shape         = "VM.Standard.E4.Flex"
+ssh_public_key_path    = "C:/Users/opc/Downloads/ssh-key-2025-11-13.key.pub"
+availability_domain    = "CtIH:ap-dcc-gazipur-1-ad-1"  # Set availability domain here
+memory_in_gbs          = 16
+ocpus                  = 2
