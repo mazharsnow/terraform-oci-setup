@@ -19,6 +19,7 @@ Clone this repository to your local machine using:
 ```bash
 git clone https://github.com/mazharsnow/terraform-oci-setup.git
 cd terraform-oci-setup
+```bash
 
 2. After cloning the repository, run the following commands:
 ```bash
