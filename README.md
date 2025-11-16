@@ -20,15 +20,7 @@ Clone this repository to your local machine using:
 git clone https://github.com/mazharsnow/terraform-oci-setup.git
 cd terraform-oci-setup
 
-### 1. Clone this Repository
-
-Clone this repository to your local machine using:
-
-```bash
-git clone https://github.com/mazharsnow/terraform-oci-setup.git
-cd terraform-oci-setup
-
-###2. After cloning the repository, run the following commands:
+2. After cloning the repository, run the following commands:
 ```bash
 terraform init
 terraform plan
