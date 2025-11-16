@@ -6,25 +6,15 @@ This repository contains Terraform code to manage Oracle Cloud Infrastructure (O
 
 Before you begin, make sure you have the following:
 
-- **Terraform** installed on your local machine (v1.0+ recommended).
-- **OCI CLI** installed and configured for authentication.
-- A valid **OCI account** and required permissions to create resources.
+- **Terraform** installed on your local machine (v1.0+ recommended).  
+- **OCI CLI** installed and configured for authentication.  
+- A valid **OCI account** and required permissions to create resources.  
+- OCI API key and OCIDs (tenancy, compartment, user) if required by your configuration.
 
-## Setup
+## Quick Start
 
-### 1. Clone this Repository
-
-Clone this repository to your local machine using:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/mazharsnow/terraform-oci-setup.git
 cd terraform-oci-setup
-```bash
-
-2. After cloning the repository, run the following commands:
-```bash
-terraform init
-terraform plan
-terraform apply
-
-These commands will initialize the working directory, create and show an execution plan, and apply the changes. You will be prompted to confirm the apply.
